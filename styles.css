@@ -1,0 +1,19 @@
+body {
+ text-align: center;   
+ background-color:#ccffff;
+ font-family: 'Dancing Script', cursive;
+}
+.step-two-button{
+    display:none;
+}
+.step-three-image{
+    display:none;  
+    height:300px;
+}
+.step-four-act{
+    display:none;   
+}
+.step-five {
+    display:none;   
+    height: 900px;
+}
